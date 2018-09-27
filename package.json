@@ -4,9 +4,12 @@
   "description": "こちらのドキュメントでは、ChatCenter Aiのご登録方法、ご利用開始方法から、詳細設定機能、APIを用いたカスタマイズ開発方法までをご説明いたします。",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "docs:build": "vuepress build"
+    "dev": "yarn && vuepress dev",
+    "build": "yarn && vuepress build"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "vuepress": "^0.14.4"
+  }
 }

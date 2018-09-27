@@ -1,8 +1,6 @@
 # ChatCenter Aiへようこそ！
 こちらのドキュメントでは、ChatCenter Aiのご登録方法、ご利用開始方法から、詳細設定機能、APIを用いたカスタマイズ開発方法までをご説明いたします。
 
-English version can be found [here](index.en).
-
 ## 目次
 * [1. ChatCenter Aiについて](#introduction)
   * [1-1. ユーザの種類](#type_of_users)
