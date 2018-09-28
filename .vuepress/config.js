@@ -10,6 +10,5 @@ module.exports = {
       { text: 'Chatcenter AI', link: 'https://www.chatcenter.ai/' },
     ]
   },
-  base: "/info/",
   dest: "docs"
 }
