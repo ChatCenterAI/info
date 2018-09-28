@@ -5,6 +5,9 @@ module.exports = {
     sidebar: [
       '/',
       //['/NEW', 'NEW.md']
+    ],
+    nav: [
+      { text: 'Chatcenter AI', link: 'https://www.chatcenter.ai/' },
     ]
   },
   base: "/info/",
