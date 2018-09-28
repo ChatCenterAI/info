@@ -7,6 +7,9 @@
     "dev": "yarn && vuepress dev",
     "build": "yarn && vuepress build"
   },
+    "engines" : { 
+      "node" : ">=8" 
+    },
   "author": "",
   "license": "ISC",
   "devDependencies": {
